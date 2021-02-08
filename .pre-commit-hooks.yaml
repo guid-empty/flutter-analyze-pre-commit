@@ -2,4 +2,5 @@
     name: Flutter Code Analyze
     entry: run
     language: script
+    stages: [commit]
     files: \.dart$
